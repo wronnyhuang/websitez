@@ -1,45 +1,40 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "W. Ronny Huang"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Maryland | EY LLP", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include "
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "wronnyhuang@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Adversarial Machine Learning",
+  "Generalization in ML",
+  "Optics and Photonics"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electrical Engineering and Computer Science"
+  institution = "Massachusetts Institute of Technology"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc, Applied and Engineering Physics"
+  institution = "Cornell University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 #
@@ -64,20 +59,20 @@ interests = [
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+# [[social]]
+# icon = "twitter"
+# icon_pack = "fab"
+# link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=UxdgwBUAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/wronnyhuang"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +83,8 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research scientist at University of Maryland and a data scientist at EY LLP. My research approaches machine learning from an adversarial and robustness perspective. In particular, I've worked on poison attacks, adversarial inevitability, learning from noisy labels, and Hessian regularizers, and sharp minimizers. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously I worked for 8 years in optical physics, where I built laser-driven particle accelerators, ultrafast electron guns, ground- and space-based lidars, terahertz lasers, and frequency combs. I've worked at MIT, NASA, German Electron Synchrotron, and MIT Lincoln Lab.
+
+My pivot to machine learning grew out of a fascination with the recent results in deep learning and curiosity about the inner workings of intelligence. I've since been on a mission to build robust, interpretable, and generalizable machines that can make sense of our complex, noisy, and (sometimes) adversarial world.
