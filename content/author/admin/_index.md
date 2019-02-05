@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "W. Ronny Huang"
+name = "Ronny Huang"
 
 # Is this the primary user of the site?
 superuser = true
@@ -13,7 +13,7 @@ role = "Research Scientist"
 organizations = [ { name = "University of Maryland | EY LLP", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include "
+bio = "My interests include adversarial robustness, generalization, and learning from noisy labels in deep learning"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "wronnyhuang@gmail.com"
@@ -27,7 +27,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Electrical Engineering and Computer Science"
+  course = "PhD, Electrical Engineering and Computer Science"
   institution = "Massachusetts Institute of Technology"
   year = 2017
 
@@ -83,8 +83,8 @@ interests = [
 
 +++
 
-I am a research scientist at University of Maryland and a data scientist at EY LLP. My research approaches machine learning from an adversarial and robustness perspective. In particular, I've worked on poison attacks, adversarial inevitability, learning from noisy labels, and Hessian regularizers, and sharp minimizers. 
+I am a research scientist at University of Maryland and a data scientist at EY LLP, focused primarily on deep learning. My research approaches machine learning from an adversarial and robustness perspective. In particular, I've worked on poison attacks, adversarial inevitability, learning from noisy labels, and Hessian regularizers, and sharp minimizers. 
 
 Previously I worked for 8 years in optical physics, where I built laser-driven particle accelerators, ultrafast electron guns, ground- and space-based lidars, terahertz lasers, and frequency combs. I've worked at MIT, NASA, German Electron Synchrotron, and MIT Lincoln Lab.
 
-My pivot to machine learning grew out of a fascination with the recent results in deep learning and curiosity about the inner workings of intelligence. I've since been on a mission to build robust, interpretable, and generalizable machines that can make sense of our complex, noisy, and (sometimes) adversarial world.
+My pivot to machine learning grew out of a fascination with the remarkable results of deep learning and curiosity about the inner workings of intelligence. I've since been on a mission to build robust, interpretable, and generalizable machines that can make sense of our complex, noisy, and (sometimes) adversarial world.
